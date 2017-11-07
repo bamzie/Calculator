@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "ab0aa715d5d364b8e20575f25ba2691b"
+build_time: [559611609, 712944000]
+inputs:
+  "/Users/Bamz/Developer/Calculator/Calculator/ViewController.swift": [559611609, 0]
+  "/Users/Bamz/Developer/Calculator/Calculator/AppDelegate.swift": [557445587, 0]
+  "/Users/Bamz/Developer/Calculator/Calculator/CalcBrain.swift": [558564734, 0]
